@@ -368,12 +368,7 @@ export default function Ceremonies() {
         </div>
 
         <div className="day-divider">Day 1 · 04/07/2026 · Saturday</div>
-
-        <EventCard cardClass="feast-card"     Illus={FeastIllus}
-          name="Day Feast"
-          day="Saturday" num="4" my="July 2026"
-          time="11:00 AM" theme="Traditional South Indian Feast" />
-
+        
         <EventCard cardClass="groom-card"     Illus={GroomIllus}
           name="Welcoming the Groom"
           day="Saturday" num="4" my="July 2026"
